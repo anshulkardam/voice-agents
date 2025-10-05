@@ -1,0 +1,81 @@
+{
+  "products": [
+    {
+      "name": "Dragon Realms Online",
+      "description": "Epic MMORPG with dragons, quests, and guild battles",
+      "key_benefits": [
+        "Immersive fantasy world with rich lore",
+        "PvP and PvE modes",
+        "Weekly events and seasonal rewards"
+      ],
+      "price_range": "$9.99-29.99/month",
+      "target_customers": "Casual and hardcore gamers"
+    },
+    {
+      "name": "Speed Racers 3000",
+      "description": "High-octane futuristic racing game",
+      "key_benefits": [
+        "Realistic physics and customizable vehicles",
+        "Online multiplayer leagues",
+        "Weekly tournaments with prizes"
+      ],
+      "price_range": "$19.99-49.99",
+      "target_customers": "Racing game enthusiasts"
+    },
+    {
+      "name": "Puzzle Master Deluxe",
+      "description": "Challenging puzzle game with thousands of levels",
+      "key_benefits": [
+        "Brain-teasing puzzles with increasing difficulty",
+        "Daily challenges to keep players engaged",
+        "Cross-platform progress sync"
+      ],
+      "price_range": "$4.99-14.99",
+      "target_customers": "Casual gamers and puzzle lovers"
+    },
+    {
+      "name": "Galaxy Conquerors",
+      "description": "Space strategy and empire-building game",
+      "key_benefits": [
+        "Build and manage your intergalactic empire",
+        "Alliance system for co-op strategies",
+        "Dynamic universe with real-time events"
+      ],
+      "price_range": "$14.99-39.99",
+      "target_customers": "Strategy and sci-fi gamers"
+    }
+  ],
+  "pricing": {
+    "starter": {
+      "price": 4.99,
+      "features": [
+        "Access to first 50 levels or basic ships",
+        "Limited daily rewards",
+        "Community forums access"
+      ]
+    },
+    "professional": {
+      "price": 19.99,
+      "features": [
+        "Full game access",
+        "Advanced items or vehicles",
+        "Priority matchmaking",
+        "Weekly tournaments"
+      ]
+    },
+    "enterprise": {
+      "price": 49.99,
+      "features": [
+        "Exclusive in-game content",
+        "Early access to expansions",
+        "VIP support",
+        "Leaderboard perks"
+      ]
+    }
+  },
+  "objection_handlers": {
+    "too_expensive": "I get it—games should be fun, not a burden. But our premium package gives you months of exclusive content and events.",
+    "need_time_to_think": "No worries, take your time. I can show you a free demo or trial to test the gameplay first.",
+    "happy_with_current_solution": "That's awesome! Just know we add new features and events monthly—could be worth checking out for extra fun."
+  }
+}

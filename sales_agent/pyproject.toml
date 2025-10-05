@@ -1,0 +1,10 @@
+[project]
+name = "sales-agent"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "livekit-agents[cartesia,openai,silero]>=1.2.14",
+    "python-dotenv>=1.1.1",
+]
